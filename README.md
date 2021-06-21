@@ -3,7 +3,7 @@
 
 <p align="left">
   Olá, meu nome é Guilherme sou <strong>Estudante de Programação na area de Front-end </strong>.<br>
-  Estou cada dia mais buscando novos conhecimentos e desafios. E em busca de uma oportunidade de Emprego na araea de Programação.
+  Estou cada dia mais buscando novos conhecimentos e desafios. E em busca de uma oportunidade de Emprego na área de Programação.
 </p>
 
 ### 🚀 Skills<div align="left">
