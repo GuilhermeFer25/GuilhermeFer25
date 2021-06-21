@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador GalvãoCode">
 
 <p align="left">
-  Olá, meu nome é Guilherme sou <strong>Estudante em Desenvolvedor Front-end</strong>.<br>
+  Olá, meu nome é Guilherme sou <strong>Estudante de Programação na area de Front-end </strong>.<br>
   Estou cada dia mais buscando novos conhecimentos e desafios. E em busca de uma oportunidade de Emprego na araea de Programação.
 </p>
 
