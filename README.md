@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### 🚀 Skills
+![javascript](https://img.shields.io/badge/javascript%20🟢🟢⚪⚪⚪-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white&labelColor=black)
+![html](https://img.shields.io/badge/html%20🟢🟢🟢🟢⚪-%23239120.svg?&style=flat-square&logo=html5&logoColor=white) 
+![css](https://img.shields.io/badge/css%20🟢🟢🟢🟢⚪-%23239120.svg?&style=flat-square&logo=css3&logoColor=white)  
+![reactjs](https://img.shields.io/badge/react%20🟢⚪⚪⚪⚪-%233776AB.svg?&style=flat-square&logo=react&logoColor=white)  
+![nodejs](https://img.shields.io/badge/nodejs%20🟢⚪⚪⚪⚪-%233776AB.svg?&style=flat-square&logo=nodejs&logoColor=white)
+
+
+
