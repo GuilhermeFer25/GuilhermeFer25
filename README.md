@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br/>
 ### 👨👩 Social
 </br>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />https://www.linkedin.com/in/guilherme-fernandes-do-bem/]()
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/guilherme-fernandes-do-bem/)](https://www.linkedin.com/in/guilherme-fernandes-do-bem/)
 [<img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://pt.stackoverflow.com/users/221974/guilherme-fernandes)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gui_fernandes_gl/)
 
